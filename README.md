@@ -1,3 +1,3 @@
 # image_gallery
 As most online image gallery are not so stable, I will turn to github now... 
-my personal blog:[oukohou.wang](oukohou.wang)
+my personal blog:[oukohou.wang](http://www.oukohou.wang/)
